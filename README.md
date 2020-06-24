@@ -480,3 +480,4 @@ n-6脂肪酸 <= 2 * n-3脂肪酸
 
 - ステマ目的ではありません。（一応明記します。）
 - ``.github/workflows/toc.yml``は Github Actions による目次作成用に追加しています。
+- [Qiitaに紹介記事を投稿しました。](https://qiita.com/Biscuit01/items/2ead59bd970f3b82cf41)
